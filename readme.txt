@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 abcdef
 master add
 master and feature2 add haha and hoho
+dev add
